@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KSqYG9jsnm2zEvtpHr0mBZM7iVJmxIY2rBXxDvWZdj4=",
+  "Source": "inventoryApiRest",
+  "BasePath": "_content/inventoryApiRest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
